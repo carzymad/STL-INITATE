@@ -1,4 +1,4 @@
-/* ÑùÀýÑÝÊ¾ */
+ï»¿/* æ ·ä¾‹æ¼”ç¤º */
 #include <iostream>
 #include "Vector.h"
 using namespace std;
